@@ -1,1 +1,2 @@
-# ATM
+# ATM SIMULATOR
+Developed a functional ATM simulator in Python using procedural programming techniques. Implemented core functionalities including account deposit, withdrawal, and balance inquiry. Leveraged modules for enhanced code organization and maintainability. Implemented robust exception handling mechanisms to gracefully handle invalid user inputs and potential errors, such as insufficient funds or invalid account numbers.
